@@ -28,13 +28,13 @@ tags: windows, 多版本 node,npm
    例如，安装 v10.13 版本的 node.js，可以通过以下命令完成：
 
    ```
-   nvm install v10.13
+   nvm install v10.13.0
    ```
 
    使用 v10.13 版本的 node.js，命令如下：
 
    ```
-   nvm use v10.13
+   nvm use v10.13.0
    ```
 
    查看当前安装的 node.js 版本列表
